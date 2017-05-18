@@ -1,1 +1,1 @@
-# wavenet_1.0 just for a some comment
+# wavenet_1.0 myself just for understand
